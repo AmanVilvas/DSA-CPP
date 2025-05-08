@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AmanVilvas/DSA-CPP/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 ## Math
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanVilvas/DSA-CPP/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
