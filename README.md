@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanVilvas/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmanVilvas/DSA-CPP/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -61,5 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
