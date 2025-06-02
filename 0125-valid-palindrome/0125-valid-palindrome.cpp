@@ -1,29 +1,28 @@
 class Solution {
 public:
-bool isAlphaNumeric(char c) {
-    return (c >= 'a' && c <= 'z') ||
-           (c >= 'A' && c <= 'Z') ||
-           (c >= '0' && c <= '9');
-}
+    bool alnum(char c){
+        return (c >= 'a' && c <= 'z') ||
+               (c >= 'A' && c <= 'Z') ||
+               (c >= '0' && c <= '9');
+    }
 
-char toLower(char c) {
-    if (c >= 'A' && c <= 'Z')
-        return c + 32;
-    return c;
-}
+    char toLower(char c){
+        if(c >= 'A' && c <= 'Z') return c + 32;
+        return c;
+    }
 
-bool isPalindromeRecursive(const string& s, int left, int right) {
-    if (left >= right) return true;
-    if (!isAlphaNumeric(s[left]))
-        return isPalindromeRecursive(s, left + 1, right);
-    if (!isAlphaNumeric(s[right]))
-        return isPalindromeRecursive(s, left, right - 1);
-    if (toLower(s[left]) != toLower(s[right]))
-        return false;
-    return isPalindromeRecursive(s, left + 1, right - 1);
-}
+    bool checkIt(string &s, int i, int j){
+        if(i >= j) return true;
 
-bool isPalindrome(string s) {
-    return isPalindromeRecursive(s, 0, s.length() - 1);
-}
+        if(!alnum(s[i])) return checkIt(s, i + 1, j);
+        if(!alnum(s[j])) return checkIt(s, i, j - 1);
+
+        if(toLower(s[i]) != toLower(s[j])) return false;
+
+        return checkIt(s, i + 1, j - 1); 
+    }
+
+    bool isPalindrome(string s) {
+        return checkIt(s, 0, s.size() - 1);
+    }
 };
