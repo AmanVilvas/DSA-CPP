@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmanVilvas/DSA-CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 ## Math
 |  |
