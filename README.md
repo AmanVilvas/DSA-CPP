@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanVilvas/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AmanVilvas/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AmanVilvas/DSA-CPP/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AmanVilvas/DSA-CPP/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/AmanVilvas/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmanVilvas/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
