@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AmanVilvas/DSA-CPP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/AmanVilvas/DSA-CPP/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AmanVilvas/DSA-CPP/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AmanVilvas/DSA-CPP/tree/master/0075-sort-colors) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AmanVilvas/DSA-CPP/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/AmanVilvas/DSA-CPP/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AmanVilvas/DSA-CPP/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AmanVilvas/DSA-CPP/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AmanVilvas/DSA-CPP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
