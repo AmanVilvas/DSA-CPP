@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmanVilvas/DSA-CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanVilvas/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AmanVilvas/DSA-CPP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
