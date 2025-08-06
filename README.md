@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/AmanVilvas/DSA-CPP/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmanVilvas/DSA-CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/AmanVilvas/DSA-CPP/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
