@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
