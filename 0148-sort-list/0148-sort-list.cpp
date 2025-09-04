@@ -10,26 +10,46 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        if(head == NULL || head->next == NULL){
-            return head;
+    // Function to merge two sorted linked lists
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                tail->next = l1;
+                l1 = l1->next;
+            } else {
+                tail->next = l2;
+                l2 = l2->next;
+            }
+            tail = tail->next;
         }
-        std::vector<int>arr;
-        ListNode* temp = head;
-        while(temp){
-            arr.push_back(temp->val);
-            temp = temp->next;
-        }
-        sort(arr.begin(), arr.end());
-        temp = head;
-    for(int i = 0; i < arr.size(); i++){
-        // Update the node's data
-        // with the sorted values
-        temp->val = arr[i]; 
-        // Move to the next node
-        temp = temp->next; 
+        tail->next = l1 ? l1 : l2;
+        return dummy.next;
     }
 
-        return head;
+    // Main sort function
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next) return head;
+
+        // Find middle (slow/fast pointer)
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // Split list into two halves
+        ListNode* mid = slow->next;
+        slow->next = nullptr;
+
+        // Sort each half
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(mid);
+
+        // Merge sorted halves
+        return merge(left, right);
     }
 };
