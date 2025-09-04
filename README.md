@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmanVilvas/DSA-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -166,6 +168,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AmanVilvas/DSA-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
