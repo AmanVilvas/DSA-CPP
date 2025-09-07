@@ -42,7 +42,7 @@ public:
         while (temp) {
             res->next = temp->next;
             temp->next = temp->next->next;
-            // res->next->next = NULL;
+            res->next->next = NULL;
             res = res->next;
             temp = temp->next;
         }
