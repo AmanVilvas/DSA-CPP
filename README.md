@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AmanVilvas/DSA-CPP/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AmanVilvas/DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanVilvas/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AmanVilvas/DSA-CPP/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -194,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
