@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
