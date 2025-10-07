@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmanVilvas/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AmanVilvas/DSA-CPP/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/AmanVilvas/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AmanVilvas/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmanVilvas/DSA-CPP/tree/master/0344-reverse-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmanVilvas/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AmanVilvas/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
@@ -206,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmanVilvas/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
