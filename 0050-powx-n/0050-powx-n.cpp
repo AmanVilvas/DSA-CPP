@@ -1,29 +1,24 @@
 class Solution {
 public:
 
-    double pow(double x, long n){
-
-        if(x == 0){
-            return 0;
-        }if( n == 0){
+    double findpow(double x, long long n){
+        if(n == 0){
             return 1;
-        }if(n == 1){
-            return x;
         }
-        if(n % 2 == 0){
-            return pow(x*x, n/2);
-        }
-        return x * pow(x, n-1);
-        
+        double ans = findpow(x, n/2);
+        double final = ans * ans;
 
+        if(n % 2 == 1){
+            final *= x;
+        }
+        return final;
     }
 
-    double myPow(double x, long n) {
-        long num = n;
-    //    long ans = ;
-       if(num < 0){
-        return 1/pow(x, -1*n);
-       } 
-       return pow(x, n);
+    double myPow(double x, long long n) {
+    //    double ans = ; 
+       if( n < 0){
+        return 1/findpow(x,-n); 
+       }
+       return findpow(x,abs(n));
     }
 };
