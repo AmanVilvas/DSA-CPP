@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/1922-count-good-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AmanVilvas/DSA-CPP/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
