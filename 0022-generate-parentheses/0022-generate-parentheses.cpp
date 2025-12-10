@@ -1,28 +1,33 @@
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
-        int open = n, close = n;
-        vector<string> ans;
-        string op = "";
-        solve(ans, open, close, op);
-        return ans;
+        int op = n;
+        int cl = n;
+        string str = "";
+        vector<string> final;
+        solve(op, cl, str, final);
+        return final;
     }
-    void solve(vector<string>& ans, int open, int close, string op) {
-        // base
-        if (open == 0 && close == 0) {
-            ans.push_back(op);
+
+    void solve(int op, int cl, string &str, vector<string> &final){
+        
+        if(op == 0 && cl == 0){
+            final.push_back(str);
             return;
         }
-        if (open) {
-            string op1 = op;
-            op1.push_back('(');
-            solve(ans, open - 1, close, op1);
+        if(op>0){
+            // string op1 = str; 
+            str.push_back('(');
+            solve(op-1, cl, str, final);
+            str.pop_back();
         }
-        if (close > open) {
-            string op2 = op;
-            op2.push_back(')');
-            solve(ans, open, close - 1, op2);
+        if(cl>0){
+            if(cl > op){
+                str.push_back(')');
+                solve(op, cl-1, str, final);
+                str.pop_back();
+            }
         }
-        return;
+
     }
 };
