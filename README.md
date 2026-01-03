@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmanVilvas/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanVilvas/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/AmanVilvas/DSA-CPP/tree/master/0792-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVilvas/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AmanVilvas/DSA-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AmanVilvas/DSA-CPP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AmanVilvas/DSA-CPP/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
