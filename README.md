@@ -241,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AmanVilvas/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AmanVilvas/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AmanVilvas/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AmanVilvas/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
