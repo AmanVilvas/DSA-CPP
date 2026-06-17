@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AmanVilvas/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AmanVilvas/DSA-CPP/tree/master/0344-reverse-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/3614-process-string-with-special-operations-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/3614-process-string-with-special-operations-ii) |
 ## Union Find
 |  |
 | ------- |
