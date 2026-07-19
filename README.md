@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AmanVilvas/DSA-CPP/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AmanVilvas/DSA-CPP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/AmanVilvas/DSA-CPP/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/AmanVilvas/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AmanVilvas/DSA-CPP/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AmanVilvas/DSA-CPP/tree/master/0075-sort-colors) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmanVilvas/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/AmanVilvas/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AmanVilvas/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/AmanVilvas/DSA-CPP/tree/master/1013-fibonacci-number) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AmanVilvas/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmanVilvas/DSA-CPP/tree/master/0169-majority-element) |
 ## Recursion
