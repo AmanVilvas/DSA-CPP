@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AmanVilvas/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanVilvas/DSA-CPP/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/AmanVilvas/DSA-CPP/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AmanVilvas/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AmanVilvas/DSA-CPP/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/AmanVilvas/DSA-CPP/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/AmanVilvas/DSA-CPP/tree/master/0844-backspace-string-compare) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/3614-process-string-with-special-operations-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/AmanVilvas/DSA-CPP/tree/master/0844-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVilvas/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AmanVilvas/DSA-CPP/tree/master/3614-process-string-with-special-operations-ii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AmanVilvas/DSA-CPP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AmanVilvas/DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AmanVilvas/DSA-CPP/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/AmanVilvas/DSA-CPP/tree/master/0844-backspace-string-compare) |
 ## Merge Sort
 |  |
 | ------- |
